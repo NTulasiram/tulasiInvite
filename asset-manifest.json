@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/tulasiInvite/static/css/main.215de0b0.css",
-    "main.js": "/tulasiInvite/static/js/main.f8dda30a.js",
+    "main.js": "/tulasiInvite/static/js/main.037293d3.js",
     "static/js/453.59ace0a6.chunk.js": "/tulasiInvite/static/js/453.59ace0a6.chunk.js",
     "static/media/background.jpg": "/tulasiInvite/static/media/background.e2c7cb62e959b51405a0.jpg",
     "index.html": "/tulasiInvite/index.html",
     "main.215de0b0.css.map": "/tulasiInvite/static/css/main.215de0b0.css.map",
-    "main.f8dda30a.js.map": "/tulasiInvite/static/js/main.f8dda30a.js.map",
+    "main.037293d3.js.map": "/tulasiInvite/static/js/main.037293d3.js.map",
     "453.59ace0a6.chunk.js.map": "/tulasiInvite/static/js/453.59ace0a6.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.215de0b0.css",
-    "static/js/main.f8dda30a.js"
+    "static/js/main.037293d3.js"
   ]
 }
